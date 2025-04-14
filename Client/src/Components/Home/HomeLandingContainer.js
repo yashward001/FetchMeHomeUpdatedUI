@@ -2,8 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../../Styles/Home.css";
 
-// Import images with proper paths (using existing images)
-import heroImage from "./images/girlHoldingADog.png"; // Using existing image
+// Import images with proper paths
+import heroImage from "./images/girlHoldingADog.png";
 import footPrint from "./images/footPrint.png";
 
 const HomeLandingContainer = (props) => {
